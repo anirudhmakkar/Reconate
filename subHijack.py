@@ -1,7 +1,7 @@
 import json
 import requests
 
-slack_webhook_url = "https://hooks.slack.com/services/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"
+slack_webhook_url = "YOUR_SLACK_WEBHOOK_URL"
 
 
 def slack_notifications(message):

@@ -26,7 +26,6 @@ go get -u -v github.com/lc/gau;
 GO111MODULE=on go get -u -v github.com/lc/subjs
 go get github.com/hakluke/hakcheckurl;
 go get github.com/hakluke/hakrawler;
-go get github.com/hakluke/hakrevdns;
 go get -u -v github.com/projectdiscovery/httpx/cmd/httpx;
 git clone https://github.com/blechschmidt/massdns $dir/massdns;
 git clone https://github.com/devanshbatham/FavFreak $dir/FavFreak;
