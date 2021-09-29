@@ -39,6 +39,8 @@ git clone https://github.com/ozguralp/gmapsapiscanner $dir/gmapsapiscanner;
 go get -u -v github.com/projectdiscovery/shuffledns/cmd/shuffledns;
 git clone https://github.com/1ndianl33t/Gf-Patterns $dir/Gf-Patterns;
 pip3 install corscanner
+pip3 install json
+pip3 install requests
 pip3 install -r ~/Tools/*/requirements.txt;
 mv $dir/Gf-Patterns/*.json /root/.gf/;
 rm -r $dir/Gf-Patterns;
